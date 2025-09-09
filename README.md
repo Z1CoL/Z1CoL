@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'am D.Badam-Ochir</h2>
+<h2 align="left">Hi 👋! I'm D.Badam-Ochir</h2>
 
 ###
 
